@@ -78,12 +78,12 @@ with st.expander("ℹ️ About This Tool"):
     especially those targeting Indian users during festivals and celebrations.
     
     **Detection Features:**
-    - 🔍 URL pattern analysis
-    - 📅 Domain age verification (WHOIS)
-    - 🔒 SSL certificate validation
-    - 📝 Scam keyword detection (Tamil & English)
-    - 🧠 Psychological manipulation detection
-    - 🎯 Seasonal event correlation
+    -  URL pattern analysis
+    -  Domain age verification (WHOIS)
+    -  SSL certificate validation
+    -  Scam keyword detection (Tamil & English)
+    -  Psychological manipulation detection
+    -  Seasonal event correlation
     
     **Note:** This tool provides risk assessment only. Always verify websites through official channels.
     """)
@@ -285,4 +285,5 @@ st.markdown("""
         <p style="font-size: 0.8rem;"> Developed by mohamed mydeen </p>
     </div>
     
+
 """, unsafe_allow_html=True)
